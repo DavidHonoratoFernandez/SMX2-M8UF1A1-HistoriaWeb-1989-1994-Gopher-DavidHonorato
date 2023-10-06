@@ -2,6 +2,15 @@
 
 ## Gopher
 
+![Portada](https://github.com/DavidHonoratoFernandez/SMX2-M8UF1A1-HistoriaWeb-1991-Gopher-DavidHonorato/blob/main/Portada.jpg "Portada")
+
+## Indice
+```
+1. ¿Qué es Gopher?
+2. ¿Cuando y por quién fue creada?
+3. ¿Cuál era el objetivo pensado con Gopher?
+```
+
 ### ¿Qué es Gopher?
 Gopher es un servicio el cual su función se basa en el acceso a información.  
 Es uno de los sistemas web para difundir información.
